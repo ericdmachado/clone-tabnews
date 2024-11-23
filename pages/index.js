@@ -1,5 +1,5 @@
 export default function Home(){
   return (
-    <h1>É tijolinho com tijolinho que montamos um castelo 🏰! </h1>
+    <h1>Estou aqui para ajudar!</h1>
   );
 };
